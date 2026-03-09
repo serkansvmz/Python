@@ -1,1 +1,1 @@
-# Python
+Python öğrenirken yaptığım mini projeler
